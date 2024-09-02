@@ -1,8 +1,8 @@
-Name      : S Someswaran 
+Name      :  M.Bhuvanesh 
 <BR>
 Company: CODTECH IT SOLUTIONS
 <BR>
-Intern ID : CT08DS6515
+Intern ID : CT08DS6497
 <BR>
 Domain  : Web development
 <BR>
@@ -109,10 +109,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author:** [S.someswaran](https://github.com/Someswaran2003/CODTECH-TASK-01)
-- **Email:** someshwaran06092003@gmail.com
-- **GitHub:** https://github.com/Someswaran2003/CODTECH-TASK-01
+- **Author:** [M.Bhuvanesh](https://github.com/bhuvaneshmani56/CODTECH-TASK-01)
+- **Email:** bhuvaneshmani56@gmail.com
+- **GitHub:** https://github.com/bhuvaneshmani56/CODTECH-TASK-01
 
 ---
 
-Feel free to modify this template as needed for your project!
