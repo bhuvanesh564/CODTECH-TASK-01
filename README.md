@@ -30,8 +30,8 @@ A simple and intuitive To-Do List application to help you organize your tasks ef
 
 ## Screenshots
 
-![Home Screen](![Screenshot 2024-09-02 112136](https://github.com/user-attachments/assets/273c541b-0513-49db-8910-1d1e7448da0a)
-)![Screenshot 2024-09-02 111655]
+![Home Screen](https://github.com/bhuvaneshmani56/CODTECH-TASK-01/blob/main/Screenshot%20(11).png)
+
 
 *Home screen of the To-Do List application.*
 
