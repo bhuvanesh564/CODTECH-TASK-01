@@ -26,7 +26,8 @@ A simple and intuitive To-Do List application to help you organize your tasks ef
 
 ## Demo
 
-[Link to Demo](https://someswaran2003.github.io/CODTECH-TASK-01/) — (Include a link to a live demo if available)
+[Link to Demo](https://bhuvaneshmani56.github.io/CODTECH-TASK-01/
+) — (Include a link to a live demo if available)
 
 ## Screenshots
 
@@ -35,7 +36,7 @@ A simple and intuitive To-Do List application to help you organize your tasks ef
 
 *Home screen of the To-Do List application.*
 
-![Add Task](![Uploading Screenshot 2024-09-02 111859.png…](![Screenshot 2024-09-02 111859](https://github.com/user-attachments/assets/aaa83cc3-adf1-4f41-9e68-1c60e0f18d4b)
+![Add Task](https://github.com/bhuvaneshmani56/CODTECH-TASK-01/blob/main/Screenshot%20(12).png)
 )
 )
 *Adding a new task.*
